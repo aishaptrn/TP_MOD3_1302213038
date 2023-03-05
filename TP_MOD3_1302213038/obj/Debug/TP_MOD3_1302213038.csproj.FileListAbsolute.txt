@@ -1,0 +1,11 @@
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 3\TP_MOD3_1302213038\TP_MOD3_1302213038\bin\Debug\TP_MOD3_1302213038.exe.config
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 3\TP_MOD3_1302213038\TP_MOD3_1302213038\bin\Debug\TP_MOD3_1302213038.exe
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 3\TP_MOD3_1302213038\TP_MOD3_1302213038\bin\Debug\TP_MOD3_1302213038.pdb
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 3\TP_MOD3_1302213038\TP_MOD3_1302213038\obj\Debug\TP_MOD3_1302213038.csproj.AssemblyReference.cache
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 3\TP_MOD3_1302213038\TP_MOD3_1302213038\obj\Debug\TP_MOD3_1302213038.csproj.SuggestedBindingRedirects.cache
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 3\TP_MOD3_1302213038\TP_MOD3_1302213038\obj\Debug\TP_MOD3_1302213038.mainForm.resources
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 3\TP_MOD3_1302213038\TP_MOD3_1302213038\obj\Debug\TP_MOD3_1302213038.Properties.Resources.resources
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 3\TP_MOD3_1302213038\TP_MOD3_1302213038\obj\Debug\TP_MOD3_1302213038.csproj.GenerateResource.cache
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 3\TP_MOD3_1302213038\TP_MOD3_1302213038\obj\Debug\TP_MOD3_1302213038.csproj.CoreCompileInputs.cache
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 3\TP_MOD3_1302213038\TP_MOD3_1302213038\obj\Debug\TP_MOD3_1302213038.exe
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 3\TP_MOD3_1302213038\TP_MOD3_1302213038\obj\Debug\TP_MOD3_1302213038.pdb
